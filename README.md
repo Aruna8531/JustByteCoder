@@ -1,3 +1,4 @@
 # JustByteCoder
-this is my first git repository 
-author gade arune
+this is my first git repository.
+<br>
+author_ gade arune
